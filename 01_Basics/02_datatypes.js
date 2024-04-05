@@ -13,10 +13,10 @@ console.log("Akshay");
 // Data types
 
 let name = "Akshay"   // string
-let age = 18          // int   range => 2 to the power 53, bigger number we use bigint
+let age = 18          // number   range => 2 to the power 53, bigger number we use bigint
 let isStudent = true  // boolean
 
-// int
+// number
 // bigint
 // string
 // boolean
