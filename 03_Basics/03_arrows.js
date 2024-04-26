@@ -15,7 +15,7 @@ product.productname = "Pen";
 product.price = 10;
 product.message();
 
-console.log(this)        // it refers to the blank object, but in browser it refers to the blank object
+console.log(this)        // it refers to the blank object, but in browser it refers to the window
 */
 
 
